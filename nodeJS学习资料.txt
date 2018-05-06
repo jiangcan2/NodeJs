@@ -1,0 +1,4 @@
+require   													//类的导入
+module.exports = {方法}/module.exports =类; 				//创建方法或者类并声明
+obj.apply(this,[...])    									//方法的继承 
+http.createServer( (request, response)=> { }).listen(8080);	//启动创建监听8080端口
